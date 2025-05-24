@@ -17,9 +17,8 @@ body {
 header {
   text-align: center;
   padding: 2rem 1rem;
-  background-color: #e6f7ff; /* Lightest blue */
+  background-color: #ffe6f0; /* Light pink */
   margin-bottom: 2rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
@@ -54,7 +53,7 @@ header p {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Product Image with Highlight Effect */
+/* Product Image Highlight */
 .product-card img {
   width: 100%;
   height: auto;
@@ -69,7 +68,7 @@ header p {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Text Content (No background color) */
+/* Product Text (No background) */
 .product-card h2 {
   font-size: 1.1rem;
   padding: 0.75rem 1rem 0.25rem;
@@ -84,7 +83,7 @@ header p {
 
 /* Footer Styles */
 footer {
-  background-color: #e6f7ff; /* Lightest blue */
+  background-color: #ffe6f0; /* Light pink */
   text-align: center;
   padding: 2rem 1rem;
   margin-top: 2rem;
